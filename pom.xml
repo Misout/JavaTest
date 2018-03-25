@@ -30,6 +30,13 @@
 		<maven-war-plugin.version>3.1.0</maven-war-plugin.version>
 	</properties>
 
+	<dependencies>
+		<dependency>
+			<groupId>net.coobird</groupId>
+			<artifactId>thumbnailator</artifactId>
+			<version>0.4.8</version>
+		</dependency>
+	</dependencies>
 	<build>
 		<finalName>JavaTest</finalName>
 		<plugins>
