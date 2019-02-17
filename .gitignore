@@ -2,6 +2,7 @@
 /.settings/
 .project
 .classpath
+/.idea/
 */.idea/
 *.iml
 rebel.xml
